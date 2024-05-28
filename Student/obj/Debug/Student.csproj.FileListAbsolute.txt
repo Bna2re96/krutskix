@@ -1,0 +1,28 @@
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\bin\Debug\Student.exe.config
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\bin\Debug\Student.exe
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\bin\Debug\Student.pdb
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.Form1.resources
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.exe
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.pdb
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.Form2.resources
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.Form3.resources
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.Form4.resources
+C:\Users\XomiK\Desktop\Работа по практике уп\Student\Student\obj\Debug\Student.Form5.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\bin\Debug\Student.exe.config
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\bin\Debug\Student.exe
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\bin\Debug\Student.pdb
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.Form1.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.Form2.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.Form3.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.Form4.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.Form5.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.Properties.Resources.resources
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.exe
+C:\Users\XomiK\Desktop\практика 2024\Student\Student\obj\Debug\Student.pdb
